@@ -1,0 +1,15 @@
+{
+  "name": "text-to-image-name-generator",
+  "version": "1.0.0",
+  "description": "generate images for text for jeopardy assets",
+  "main": "index.js",
+  "dependencies": {
+    "text-to-image": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "callum",
+  "license": "ISC"
+}
